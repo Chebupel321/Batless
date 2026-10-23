@@ -1,0 +1,1 @@
+batless prevents bats from spawning naturally
